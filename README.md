@@ -15,7 +15,7 @@ nginx profacto proxy config and docker-compose file to use the profacto API with
 
 - `<certificate.crt>` ssl certificate name
 - `<certificate-key.rsa>` ssl certificate key name
-- `<trusted-intermediate-certificate.cer>` ssl intermediated trusted certificate (CA authorithority trusted certificate)
+- `<trusted-intermediate-certificate.cer>` ssl intermediate trusted certificate (CA authorithority trusted certificate)
 
 - `<dns-resolver-1>` DNS resolver (e.g. 1.1.1.1)
 - `<dns-resolver-2>` DNS resolver (e.g. 8.8.8.8)
